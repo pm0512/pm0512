@@ -8,14 +8,14 @@ PYTHON
 
 > 학회
 
--콕 2기
+- 콕 2기
 
--GDSC
+- GDSC
 
--HI-ARC
+- HI-ARC
 
 > 수강 중인 스터디
 
--GDSC 개발 입문 스터디
+- GDSC 개발 입문 스터디
 
--HI-ARC 기초스터디
+- HI-ARC 기초스터디
